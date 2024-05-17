@@ -9,7 +9,7 @@ SQL query generation is a crucial task for many data-driven applications. By fin
 ## Contents
 
 - `fine-tuning.ipynb`: Jupyter notebook detailing the fine-tuning process using the 'unsloth' method.
-- `Article`: A comprehensive article explaining the methodology and results (link to be added later).
+- `Article`: A comprehensive article explaining the methodology and results ([Link](https://medium.com/gopenai/bridging-the-gap-fine-tuning-phi-3-for-sql-query-generation-with-natural-language-queries-8fbe6a58b1ec)).
 - `Dataset`: The dataset used for fine-tuning is available at b-mc2/sql-create-context.
 - `Model`: The base model for fine-tuning can be found at unsloth/Phi-3-mini-4k-instruct.
 
