@@ -21,7 +21,7 @@ To replicate the fine-tuning process or to use the fine-tuned model:
    ```bash
    git clone https://github.com/imanoop7/fine-tuning-llm-for-SQL-query-generation/fine-tuning-llm-for-SQL-query-generation.git
 2. ``` cd fine-tuning-llm-for-SQL-query-generation ```
-3. Follow the instructions in phi3_fine-tuning_on_sql_task.ipynb to fine-tune the model on your dataset.
+3. Follow the instructions in ``` phi3_fine-tuning_on_sql_task.ipynb ``` to fine-tune the model on your dataset.
 ## Prerequisites
 * Python 3.8+
 * Jupyter Notebook
